@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/{Adarshkumar1003}/{storefront1}/
     type: markup
 
 folders:
